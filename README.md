@@ -6,7 +6,3 @@ With its modular and geometric design, it adapts to any creative need.
 
 ![BF01](https://github.com/user-attachments/assets/b4331568-342e-463d-a060-cec039cd42e6)
 ![BF02](https://github.com/user-attachments/assets/ad51444d-b032-4f58-99bc-9917db7f394d)
-
-# Designer
-
-Davide Piscitelli
